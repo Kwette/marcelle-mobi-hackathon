@@ -15,7 +15,7 @@ Travail en équipe de 5 développeurs d'écoles, de niveaux et de Stack différe
 - 2 futurs étudiants (le Wagon Marseille)
 - moi-même alumni du Wagon Marseille #254 (Ruby/ROR/JS).
 
-View project's pictures on behance here => https://github.com/Kwette/marcelle-mobi-hackathon
+View project's pictures on behance here => https://www.behance.net/gallery/89008571/Web-Application-%28developed-in-Vuejs%29-marcellemobi
 
 ------------------------------------------------------------------------------------------------------------------------------------
 # marcelle-mobi
