@@ -1,3 +1,22 @@
+# Hackathon du Frioul (oct 2019)  
+Marcelle.mobi   
+Développement en VueJS d'une feature (non déployée) sur une application web existante pendant deux jours => marcelle.mobi.
+
+Feature visible ici : https://github.com/Kwette/marcelle-mobi-hackathon => Sur la map, ajout d'un filtre par “lieu de tournage de films” à proximité.
+As a user, I can :
+- Afficher les “lieux de tournage de films” à proximité,
+- Cliquer sur le marqueur personnalisé pour afficher le lien vers le film
+- Cliquer sur le lien qui permet d'aller voir les informations sur le film
+- Cliquer sur le bouton "voir sur la map" qui le renvoi directement sur la page google map du lieu de tournage.
+
+Travail en équipe de 5 développeurs d'écoles, de niveaux et de Stack différentes :
+- 2 étudiants en JAVA (Wild code school)
+- 2 futurs étudiants (le Wagon Marseille)
+- moi-même alumni du Wagon Marseille #254 (Ruby/ROR/JS).
+
+View project's pictures on behance here => https://github.com/Kwette/marcelle-mobi-hackathon
+
+------------------------------------------------------------------------------------------------------------------------------------
 # marcelle-mobi
 ![marcelle-mobi](static/icon.png)
 > Déplacez-vous autrement dans Marseille
