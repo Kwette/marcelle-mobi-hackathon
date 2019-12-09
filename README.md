@@ -2,7 +2,8 @@
 Marcelle.mobi   
 Développement en VueJS d'une feature (non déployée) sur une application web existante pendant deux jours => marcelle.mobi.
 
-Feature visible ici : https://github.com/Kwette/marcelle-mobi-hackathon => Sur la map, ajout d'un filtre par “lieu de tournage de films” à proximité.
+=> Sur la map, ajout d'un filtre par “lieu de tournage de films” à proximité.
+
 As a user, I can :
 - Afficher les “lieux de tournage de films” à proximité,
 - Cliquer sur le marqueur personnalisé pour afficher le lien vers le film
