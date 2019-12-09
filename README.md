@@ -18,6 +18,7 @@ Travail en équipe de 5 développeurs d'écoles, de niveaux et de Stack différe
 View project's pictures on behance here => https://www.behance.net/gallery/89008571/Web-Application-%28developed-in-Vuejs%29-marcellemobi
 
 ------------------------------------------------------------------------------------------------------------------------------------
+SETUP HACKATHON : 
 # marcelle-mobi
 ![marcelle-mobi](static/icon.png)
 > Déplacez-vous autrement dans Marseille
